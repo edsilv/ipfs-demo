@@ -18,5 +18,5 @@ Copied the hash of the `ipfs-demo` directory and added it to `index.html` as the
 
 Copied the hash of `index.html` and loaded via gateway.ipfs.io
 
-	https://gateway.ipfs.io/ipfs/QmT1qhv2kV7u6h7TeUxTLZnqgNMsBdyRgAp9gwg1oV3QC8
+	https://gateway.ipfs.io/ipfs/QmbEBzQ93qZJU1muKVxtvWT2nBzUPkC8M2yLD6zWsdikrQ
 
