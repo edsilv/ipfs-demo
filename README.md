@@ -1,4 +1,4 @@
-# ipfs-demo
+# ipfs-openseadragon-demo
 
 Created deepzoom tiles using https://github.com/edsilv/deepzoom.py
 
